@@ -1,18 +1,28 @@
-This is a basic temperature convert module
-  
-Basic Usage:
+# Thermal Converter
+This is a basic npm package to convert your temperature values
 
+### Installation
+You can install thermal converter by,
 
+```sh
+$ npm install thermal-converter
+```
+
+### Usage
+
+```sh
 const converter = require('thermal-converter');
 
-converter.celToFahr(36.5);
+converter.celToFahr(36);
 converter.fahrToCel(70);
 converter.fharTokel(10);
 converter.kelToFhar(1);
+```
+
+### Developers
+Avishka Balasuriya
+Lasitha Randika
+Nimnadi Fernando
+Janani Bannaheka
 
 
-Made by:
-    Lasitha Randika,
-    Avishka Balasuriya,
-    Nimnadi Fernando,
-    Janani Bannehaka,
