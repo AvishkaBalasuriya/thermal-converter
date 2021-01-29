@@ -13,10 +13,10 @@ $ npm install thermal-converter
 ```sh
 const converter = require('thermal-converter');
 
-converter.celToFahr(36);
-converter.fahrToCel(70);
-converter.fharTokel(10);
-converter.kelToFhar(1);
+console.log(converter.celciusToFarenheit(36));
+console.log(converter.fahrenheiToCelsius(70));
+console.log(converter.fahrenheitToKelvin(10));
+console.log(converter.kelvinToFahrenheit(1));
 ```
 
 ### Developers
