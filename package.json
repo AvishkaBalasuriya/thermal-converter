@@ -1,6 +1,6 @@
 {
   "name": "thermal-converter",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "This is a basic npm module to convert temperature value",
   "main": "thermal-converter.js",
   "scripts": {
