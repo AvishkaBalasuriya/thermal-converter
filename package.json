@@ -1,0 +1,23 @@
+{
+  "name": "thermal-converter",
+  "version": "1.0.1",
+  "description": "This is a basic npm module to convert temperature value",
+  "main": "thermal-converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvishkaBalasuriya/thermal-converter.git"
+  },
+  "keywords": [
+    "npm",
+    "thermal-convert"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AvishkaBalasuriya/thermal-converter/issues"
+  },
+  "homepage": "https://github.com/AvishkaBalasuriya/thermal-converter#readme"
+}
